@@ -48,14 +48,13 @@ Discord Channel Reports
 
 ## 📁 Project Structure
 
-/
-├── charts/ # Chart generation logic
-├── robloxscripts/ # Roblox server-side scripts
-├── Server Scripts/ # Backend logic
-├── database/ # SQLite database files
-├── .env.example # Environment variable template
-├── index.js # Application entry point
-└── README.md
+├─ Server Scripts/       🚀 Backend code
+├─ backups/              💾 Backups
+├─ charts/               📊 Chart logic
+├─ robloxscripts/        🎮 Roblox-side code
+├─ .env                  🧩 Config
+└─ README.md
+
 
 
 ---
