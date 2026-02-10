@@ -47,13 +47,13 @@ Discord Channel Reports
 ---
 
 ## 📁 Project Structure
+├── Backend/        🚀 Scripts for the Cloud Server
+├── Backups/        💾 Automated Backups
+├── Charts/         📊 Chart logic
+├── Roblox/         🎮 Roblox-side code
+├── .env            🧩 Config
+└── README.md
 
-├─ Backend/              🚀 Scripts for the Cloud Server
-├─ Backups/              💾 Automated Backups
-├─ Charts/               📊 Chart logic
-├─ Roblox/               🎮 Roblox-side code
-├─ .env                  🧩 Config
-└─ README.md
 
 
 
