@@ -2,8 +2,6 @@
 
 A self-hosted **Roblox analytics backend** that collects in-game KPIs and posts reports, charts, and statistics directly to **Discord**.
 
-This project allows Roblox developers to track player activity, session behavior, and monetization metrics without relying on third-party analytics platforms.
-
 ---
 
 ## ✨ Features
