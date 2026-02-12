@@ -15,7 +15,7 @@ This project allows Roblox developers to track player activity, session behavior
 - 🖼 Automatic **chart generation**  
 - 🤖 **Discord bot** for reporting and alerts  
 - 🗄 Uses **SQLite** (no external database required)  
-- 🔐 Secure **signed HTTP requests** from game servers  
+- 🔐 Secure **signed HTTPS requests** from game servers  
 
 ---
 
@@ -24,7 +24,7 @@ This project allows Roblox developers to track player activity, session behavior
 
 Roblox Game Servers
 ↓
-Signed HTTP Requests
+Signed HTTPS Requests
 ↓
 Node.js Backend (Ubuntu Server 22.04 LTS)
 ↓
@@ -145,7 +145,7 @@ Measure session durations
 
 Track purchases
 
-Send signed HTTP requests to the backend
+Send signed HTTPS requests to the backend
 
 Before using them:
 
@@ -153,7 +153,7 @@ Update the backend URL
 
 Match the SECRET_KEY
 
-Enable HttpService in Roblox Studio
+Enable HttpsService in Roblox Studio
 
 ---
 
