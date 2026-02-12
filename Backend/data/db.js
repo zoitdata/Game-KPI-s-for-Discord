@@ -15,6 +15,14 @@ db.serialize(() => {
       created_at TEXT DEFAULT CURRENT_TIMESTAMP
     )
   `)
+
+  db.run(`
+    CREATE TABLE IF NOT EXISTS hourly_revenue (
+      hour TEXT PRIMARY KEY,
+      revenue INTEGER NOT NULL,
+      created_at TEXT DEFAULT CURRENT_TIMESTAMP
+    )
+  `)
 })
 
 module.exports = db
