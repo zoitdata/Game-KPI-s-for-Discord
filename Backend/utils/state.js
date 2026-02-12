@@ -16,7 +16,8 @@ module.exports = {
     peakCCU: 0
   },
 
-  alerts: {
-    lastCCU: 0
+  hourly: {
+    revenue: 0,
+    currentHour: null
   }
 }
