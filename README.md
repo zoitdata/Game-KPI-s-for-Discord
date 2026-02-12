@@ -26,7 +26,7 @@ Roblox Game Servers
 ↓
 Signed HTTP Requests
 ↓
-Node.js Backend
+Node.js Backend (Ubuntu Server 22.04 LTS)
 ↓
 SQLite Database
 ↓
@@ -34,6 +34,8 @@ Charts & Aggregated Data
 ↓
 Discord Channel Reports
 
+Note: I wont give you guys an tutorial on how to correctly set up the VM / needed software. 
+If you dont know how it correctly works dont even try to set it up or just ask ChatGPT like evry other person does. 
 
 ---
 
